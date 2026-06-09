@@ -13,6 +13,13 @@ decodeURIComponent(tamu);
 
 function bukaUndangan(){
 
+const music =
+document.getElementById("bgMusic");
+
+if(music){
+music.play();
+}
+
 document
 .getElementById("undangan")
 .scrollIntoView({
