@@ -111,3 +111,9 @@ color:white;
 padding:30px;
 text-align:center;
 }
+.note{
+margin-top:15px;
+font-size:14px;
+color:#666;
+font-style:italic;
+}
